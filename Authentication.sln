@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helpers", "Helpers\Helpers.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{861389FB-8D93-4F90-842E-D6D204136D06}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{E02533F1-4458-4112-8858-C487EEC9158E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authetication", "Authetication\Authetication.csproj", "{6E98C8C2-CBB6-4CB0-ACCF-629D74B0DEA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{861389FB-8D93-4F90-842E-D6D204136D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{861389FB-8D93-4F90-842E-D6D204136D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{861389FB-8D93-4F90-842E-D6D204136D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E98C8C2-CBB6-4CB0-ACCF-629D74B0DEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E98C8C2-CBB6-4CB0-ACCF-629D74B0DEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E98C8C2-CBB6-4CB0-ACCF-629D74B0DEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E98C8C2-CBB6-4CB0-ACCF-629D74B0DEA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,7 @@ Global
 		{A392F294-25F5-49BB-9355-BEC297338D5C} = {3C358B3C-33B7-49C0-8523-B6D9DCC5DDD8}
 		{2B1C653A-F08D-45C5-913C-A680AA409A6C} = {88089F2C-96DF-4670-9ADD-9B45085E4ECF}
 		{861389FB-8D93-4F90-842E-D6D204136D06} = {5E9B7EBB-47A6-4FC2-9A17-44CD43D7CC32}
+		{6E98C8C2-CBB6-4CB0-ACCF-629D74B0DEA4} = {E02533F1-4458-4112-8858-C487EEC9158E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E8102768-D1B7-4AB1-A73D-78B038CDBAE9}
