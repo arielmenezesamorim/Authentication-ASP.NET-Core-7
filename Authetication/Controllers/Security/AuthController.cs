@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Authetication.Controllers.Security
+namespace AutheticationAPI.Controllers.Security
 {
     [Route("api/[controller]")]
     [ApiController]

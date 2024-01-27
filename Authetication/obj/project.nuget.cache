@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1hRk+axX6kfhWJIu7Ok7x9vbDyRIqjEkoz2x/Tqj/Yi2b2E4eMqJMgdlSK4sg+w0gBwfVTkvEdR6CEMRuf7x5w==",
+  "dgSpecHash": "UTntiuCay+z5/mkY4opfNH5vRoV2Jh4HsMExwu5GB8M/u/10PR25JqQBGNZMBCzhMGKhCd6p6EU85NEzDA5DMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ariel Menezes\\Desktop\\Authentication\\Authetication\\Authetication.csproj",
+  "projectFilePath": "C:\\Users\\Ariel Menezes\\Desktop\\Authentication\\Authetication\\AutheticationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ariel Menezes\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ariel Menezes\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

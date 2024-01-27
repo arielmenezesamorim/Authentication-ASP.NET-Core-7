@@ -1,7 +1,7 @@
 ﻿using Domain.Interfaces.IServices.Security;
 using Domain.Services.Security;
 
-namespace Authetication.Configuration
+namespace AutheticationAPI.Configuration
 {
     public static class DependecyInjectionConfig
     {

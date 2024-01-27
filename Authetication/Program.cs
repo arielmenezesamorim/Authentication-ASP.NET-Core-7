@@ -1,4 +1,4 @@
-using Authetication.Configuration;
+using AutheticationAPI.Configuration;
 using Entities.Models.Security.Usuario;
 using Infra.Configuration;
 using Microsoft.AspNetCore.Authentication.JwtBearer;

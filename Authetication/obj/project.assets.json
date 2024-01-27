@@ -3589,9 +3589,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ariel Menezes\\Desktop\\Authentication\\Authetication\\Authetication.csproj",
-      "projectName": "Authetication",
-      "projectPath": "C:\\Users\\Ariel Menezes\\Desktop\\Authentication\\Authetication\\Authetication.csproj",
+      "projectUniqueName": "C:\\Users\\Ariel Menezes\\Desktop\\Authentication\\Authetication\\AutheticationAPI.csproj",
+      "projectName": "AutheticationAPI",
+      "projectPath": "C:\\Users\\Ariel Menezes\\Desktop\\Authentication\\Authetication\\AutheticationAPI.csproj",
       "packagesPath": "C:\\Users\\Ariel Menezes\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ariel Menezes\\Desktop\\Authentication\\Authetication\\obj\\",
       "projectStyle": "PackageReference",

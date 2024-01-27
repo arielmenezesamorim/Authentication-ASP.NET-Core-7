@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Authetication.Controllers.Gerenciador
+namespace AutheticationAPI.Controllers.Gerenciador
 {
     [Route("[controller]")]
     [ApiController]
