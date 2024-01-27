@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PF775lbOUfHq2cXp+Pn7wo8/PRGVQZ/jnZYdTnXITLXpEYc8nlXamZgtjZvj6wbkBFQnKdiPvdsLceQpkzQdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ariel Menezes\\Desktop\\Authentication\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\mailkit\\3.2.0\\mailkit.3.2.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.15\\microsoft.aspnetcore.cryptography.internal.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.15\\microsoft.aspnetcore.cryptography.keyderivation.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.15\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.15\\microsoft.entityframeworkcore.abstractions.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.15\\microsoft.entityframeworkcore.analyzers.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.15\\microsoft.entityframeworkcore.relational.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.15\\microsoft.extensions.identity.core.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.15\\microsoft.extensions.identity.stores.7.0.15.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\mimekit\\3.2.0\\mimekit.3.2.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\netcore.mailkit\\2.1.0\\netcore.mailkit.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel Menezes\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

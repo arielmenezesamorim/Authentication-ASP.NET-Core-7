@@ -1,0 +1,11 @@
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Users\Ariel Menezes\Desktop\Authentication\Helpers\obj\Debug\net7.0\ref\Helpers.dll
